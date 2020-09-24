@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: '# create a Batman here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8090
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8090">JetBrains
+    Academy</a></html>
+  time: Tue, 15 Sep 2020 08:51:14 UTC
+record: -1

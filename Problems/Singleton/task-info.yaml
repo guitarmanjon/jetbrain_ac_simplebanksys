@@ -1,0 +1,23 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    # Truthy values
+    one = 1
+    non_empty_string = "singleton"
+
+    # Falsy values
+    zero = 0
+    empty_list = []
+
+    # NoneType
+    none_obj = ...
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8298
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8298">JetBrains
+    Academy</a></html>
+  time: Wed, 16 Sep 2020 15:38:47 UTC
+record: -1
